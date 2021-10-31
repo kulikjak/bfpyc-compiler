@@ -1,0 +1,8 @@
+# several directories
+__pycache__/
+unused/
+
+# the compiler itself
+compiler
+
+
