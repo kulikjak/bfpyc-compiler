@@ -1,4 +1,4 @@
-# Brainfuck ⮞ pyc compiler
+# Brainfuck pyc compiler
 
 This repository contains a simple compiler of Brainfuck programs into `.pyc` files for the Python 3.9 virtual machine.
 
